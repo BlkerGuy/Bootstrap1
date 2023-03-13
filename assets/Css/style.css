@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    border-bottom: 1.5px solid rgba(167, 175, 188, 255);
+    box-shadow: 0 4px 6px -6px #222;
+}
+
+main .bg-first-plan{
+    background-image: url('../Img/bg-yamaha.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.vh-92-1{
+height: 92.1vh;
+}
+
